@@ -1,0 +1,39 @@
+
+Shelf list
+CSV file from BOOK-IT
+
+The CSV file from BOOK-IT has these fields and uses semi-colon as field separator:
+
+Nr;Huvuduppslag;Avdelning;Placering;Cirk. kat;Hylla;Status;Lok.-datum;Förf. datum;Etikettnr.;Lån;
+
+
+Possibly fields in search and sequence fiels in Smartstrock are these:
+
+id,Search,lmsSearch,title,author,location
+
+The only field that is mandatory is the ID field
+Possible values for the Search field is old, missing, checkedout, location; see the Bibliotheca manual for an explanation
+
+
+This is an example from Bibliotheca:
+
+id,title,location,search
+89008854429|8004981265|89008854350,Johansson med tuppen,h3,hold
+730005296,Inferno,h3,
+
+
+
+Compare the CSV file with the shelf list
+
+Check if Hylla is in shelf list
+	if true
+		save line to tmpfile
+	if false
+		truncate Hylla by one
+		check again
+
+Sort tmp file by shelf and Huvuduppslag
+
+Create sequence file
+id,title
+${Etikettnr},${Huvuduppslag}
