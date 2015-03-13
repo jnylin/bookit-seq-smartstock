@@ -48,8 +48,14 @@ The Array needs to be something like this
 
 shelfs["C"] = [["Wikander, Ola, Gud är ett verb","1234"],["Goldman,Anita, Våra bibliska mödrar","12345"]]
 
+shelfs["C"] = []
+shelfs["C"].push(["Wikander, Ola, Gud är ett verb","1234"])
+
 sort
 sort_by! {|x,y|x}
+
+'Irāqī, Fakhr al-Din Ibrāhīm
+99 frågor om islam och något färre svar 2004
 
 
 
