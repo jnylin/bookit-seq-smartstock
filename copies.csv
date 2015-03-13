@@ -1,5 +1,300 @@
-Nr;Huvuduppslag;Avdelning;Placering;Cirk. kat;Hylla;Status;Lok.-datum;FÃ¶rf. datum;Etikettnr.;LÃ¥n;
-1;Wikander, Ola, Gud Ã¤r ett verb;Vimmerby - Vuxen;;;Cc;;;;1234;10;
-2;Wikander, Ola, Gud Ã¤r ett verb;Vimmerby - Vuxen;;;Cm;;;;1134;10;
-3;Wikander, Ola, Gud Ã¤r ett verb;Vimmerby - Vuxen;;;Ci;;;;1134;10;
-3;Wikander, Ola, Gud Ã¤r ett verb;Vimmerby - Vuxen;;;Dop;;;;1134;10;
+Nr;Huvuduppslag;Avdelning;Placering;Cirk. kat.;Hylla;Status;Lok.-datum;Förf. datum;Etikettnr.;Lån;
+1;96 sidor om kristen tro 2013;  Vimmerby - Vuxen; ;;Ce;;2013-10-10;;52412970041;2
+2;99 frågor om islam och något färre svar 2004;  Vimmerby - Vuxen; ;;Cmd;;2004-05-12;;21354180884;28
+3;Adam av Bremen, Historien om Hamburgstiftet och dess biskopar 1984;  Vimmerby - Vuxen; ;;Cj;;1998-04-06;;20470590884;20
+4;Agrell, Göran, Böcker för livet 1999;  Vimmerby - Vuxen; ;;Cc;;2000-02-23;;21281570884;16
+5;Anderberg, Thomas, Guds moral 1997;  Vimmerby - Vuxen; ;;C;;1998-04-06;;89004831987;19
+6;Andrum - om brustenhet, tillit och tro 1997;  Vimmerby - Vuxen; ;;Ci;Försvunnen;1998-04-06;;21208520884;16
+7;Andræ, Tor, Muhammed 2008;  Vimmerby - Vuxen; ;;Cmd;;2010-02-16;;21793200884;9
+8;Ankarloo, Bengt, Helvetet 2003;  Vimmerby - Vuxen; ;;Ce;;2004-03-15;;21349060884;13
+9;Arlebrand, Håkan, Drömmen om gudomlighet 1989;  Vimmerby - Vuxen; ;;Cks;;1998-04-06;;20300510884;30
+10;Arlebrand, Håkan, Kristen tro idag 2004;  Vimmerby - Vuxen; ;;Ca;;2004-06-15;;21356830884;13
+11;Armstrong, Karen, Buddha 2002;  Vimmerby - Vuxen; ;;Cme;;2002-04-30;;20880200884;26
+12;Armstrong, Karen, För Guds skull 2011;  Vimmerby - Vuxen; ;;Cm;;2011-10-05;;80041466329;4
+13;Armstrong, Karen, Historien om Gud 1995;  Vimmerby - Vuxen; ;;Cm;;2001-03-15;;21049770884;29
+14;Armstrong, Karen, Kampen för Gud 2000;  Vimmerby - Vuxen; ;;Cm;;2001-09-07;;20855380884;20
+15;Armstrong, Karen, Muhammed 2003;  Vimmerby - Vuxen; ;;Cmd;;2003-10-09;;21334290884;26
+16;Armstrong, Karen, Myternas historia 2005;  Vimmerby - Vuxen; ;;Cm;;2005-11-04;;21620300884;25
+17;Armstrong, Karen, Världsreligionernas födelse 2007;  Vimmerby - Vuxen; ;;Cm;;2007-11-19;;80036200614;12
+18;Arnberg, Barbro, Invid muren 2006;  Vimmerby - Vuxen; ;;Cl;;2006-05-24;;89017930737;10
+19;Arvidsson, Bengt, Bed och arbeta i trädgården 2009;  Vimmerby - Vuxen; ;;Cj;;2010-03-16;;80041463626;2
+20;Arvidsson, Stefan, Draksjukan 2007;  Vimmerby - Vuxen; ;;Cm;;2008-11-19;;21768940884;5
+21;Aslan, Reza, Upprorsmakaren 2014;  Vimmerby - Vuxen; ;;Cc;;2014-05-07;;52456700019;7
+22;Att vara muslim. Bok 1 1993;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471720884;33
+23;Baigent, Michael, Dödahavsrullarnas hemlighet 2006;  Vimmerby - Vuxen; ;;Cc;;2006-10-30;;21698480884;11
+24;Baigent, Michael, Heligt blod, helig Gral 2006;  Vimmerby - Vuxen; ;;Ca;;2006-08-30;2015-03-20;21641620884;20
+25;Baigent, Michael, Jesusskrifterna 2007;  Vimmerby - Vuxen; ;;Cc;;2010-02-12;;80039722683;4
+26;Barn skriver till gud 1990;  Vimmerby - Vuxen; ;;C;;1998-04-06;;20300500884;31
+27;Bear Heart, Vinden är min mor 1997;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;21208530884;66
+28;Bengtsson, Arne, Frihetens eld 1990;  Vimmerby - Vuxen; ;;Cj;;1998-04-06;;20470610884;8
+29;Bengtsson, Bertil, De kallar sig Jehovas vittnen - men är de kristna? 1994;  Vimmerby - Vuxen; ;;Cks;;1998-04-06;;89001553347;48
+30;Bengtsson, Pelle, Mot enkelhetens punkt 1999;  Vimmerby - Vuxen; ;;Ce;;1999-11-19;;21272530884;11
+31;Benson, Ophelia, Hatar Gud kvinnor? 2010;  Vimmerby - Vuxen; ;;Cm;;2010-11-17;;80041438875;2
+32;Berge, Elin, Slöjor 2006;  Vimmerby - Vuxen; ;;Cmd;;2006-05-24;;89018002222;9
+33;Berglund, Christina, Svenska kyrkan 2005;  Vimmerby - Vuxen; ;;Cg;;2006-04-19;;21636140884;6
+34;Berglund, Sven-Oscar, Kyrkoårets helger 1996;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20473930884;4
+35;Bergstrand, Göran, En själasörjares dilemma 2002;  Vimmerby - Vuxen; ;;Cg;;2002-04-29;;20880020884;9
+36;Berman, Paul, De intellektuellas flykt 2011;  Vimmerby - Vuxen; ;;Cmd;;2011-08-30;;80041466196;0
+37;Berättelser om ondskan 2000;  Vimmerby - Vuxen; ;;Ce;;2001-01-04;;21042640884;35
+38;Besèr, Nathalie, Egypten: Brödraskapets uppgång och fall 2013;  Vimmerby - Vuxen; ;;Cmd;;2013-11-04;;80047025324;0
+39;Beskow, Per, Helgonen 2011;  Vimmerby - Vuxen; ;;Cj;;2012-06-12;;80041467590;8
+40;Beskow, Per, Trons vägar 2003;  Vimmerby - Vuxen; ;;C;;2003-11-12;;21337040884;44
+41;Bhagavadgita 2001;  Vimmerby - Vuxen; ;;Cme;;2001-08-23;;20853820884;30
+42;Bhutto, Benazir, Försoning 2008;  Vimmerby - Vuxen; ;;Cmd;;2011-11-14;;80037103655;6
+43;Bibeln 1999;  Vimmerby - Vuxen; ;;Cb;;2001-05-30;2015-03-25;21058530884;28
+44;Bibeln 2001;  Vimmerby - Vuxen; ;;Cb;;2002-01-09;;20866140884;3
+45;Bibeln G.T. Psaltaren 2008;  Vimmerby - Vuxen; ;;Cb;;2009-07-14;;21793300884;2
+46;Bibeln N.T. 2011;  Vimmerby - Vuxen; ;;Cb=oa;;2012-02-28;;80041468588;0
+47;Birgitta, I dig blev den store Guden en liten pilt 2003;  Vimmerby - Vuxen; ;;Cd;;2003-08-20;2015-03-18;21329720884;15
+48;Birgitta, Sanningsord av den heliga Birgitta 1973;  Vimmerby - Vuxen; ;;Cd;;1998-04-06;;20422570884;12
+49;Birgitta, Uppenbarelser 2003;  Vimmerby - Vuxen; ;;Cd;;2003-10-28;;21335350884;4
+50;Björklund, Lars, Modet att ingenting göra 2003;  Vimmerby - Vuxen; ;;Cg;;2004-02-09;;21345040884;33
+51;Bloch, Raymond, Spådom under antiken 1998;  Vimmerby - Vuxen; ;;Cmg;;1998-07-01;;89006844083;16
+52;Blågul islam? 1999;  Vimmerby - Vuxen; ;;Cmd;;2000-04-19;;21025070884;23
+53;Bodin, Per-Arne, Den oväntade glädjen 1991;  Vimmerby - Vuxen; ;;Cj;;1998-04-06;;20470620884;8
+54;Bonhoeffer, Dietrich, Texter i urval 1994;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20471100884;27
+55;Borg, Annika, Bibeln på mitt sätt 2009;  Vimmerby - Vuxen; ;;Cc;;2009-11-19;;80039712381;8
+56;Bornstein, Anna C., Dalai Lama och den buddhistiska vägen 1988;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471690884;56
+57;Broomé, Catharina, Den katolska vägen 1985;  Vimmerby - Vuxen; ;;Ck;;1998-04-06;;20471880884;26
+58;Broomé, Catharina, Katolicismen 1993;  Vimmerby - Vuxen; ;;Ck;;1998-04-06;2015-03-25;20300490884;39
+59;Brown, Ann, Se kvinnan 1994;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470450884;31
+60;Buruma, Ian, Att tämja gudarna 2010;  Vimmerby - Vuxen; ;;Cm;;2010-06-09;;80041443988;6
+61;Buxton, Richard, Den grekiska mytologins värld 2007;  Vimmerby - Vuxen; ;;Cmg;;2007-04-04;2015-04-06;21713440884;18
+62;Byström Janarv, Görel, Religiösa profiler 1997;  Vimmerby - Vuxen; ;;Cm;;2011-11-14;;89004784726;37
+63;Bæksted, Anders, Gudar och hjältar i Norden 1970;  Vimmerby - Vuxen; ;;Cmi;;1998-04-06;;20471710884;48
+64;Bärtås, Magnus, Innanför cirkeln 2005;  Vimmerby - Vuxen; ;;Cm;;2006-02-20;;89017665226;9
+65;Bönbok för sörjande 1997;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;89005458191;2
+66;Carls, Rainer, Om tro och vetande 2001;  Vimmerby - Vuxen; ;;Ce;;2002-05-28;;20883740884;11
+67;Carlsson, Bo Göran, Religion, kultur och manlig homosexualitet 2000;  Vimmerby - Vuxen; ;;Cm;;2001-05-04;;21055360884;9
+68;Carlsson, Olle, Just idag 2014;  Vimmerby - Vuxen; ;;Ci;;2015-02-26;2015-03-31;52785590045;1
+69;Carlsson, Olle, Kristendom för ateister 2007;  Vimmerby - Vuxen; ;;Ce;;2008-01-16;;80036184727;25
+70;Clément, Olivier, Taizé - att ge livet en mening 1998;  Vimmerby - Vuxen; ;;Ci;;1998-07-06;;21222450884;22
+71;Dahl, Per Arne, Något att hoppas på 2012;  Vimmerby - Vuxen; ;;Ci;;2015-01-08;;51200370081;0
+72;Dalai Lama, Etik för ett nytt millennium 2000;  Vimmerby - Vuxen; ;;Cme;;2002-03-21;;20874070884;41
+73;Dalai Lama, Ett meningsfullt liv 2002;  Vimmerby - Vuxen; ;;Cme;;2006-03-03;;20990740884;41
+74;Dalai Lama, Ett öppet hjärta 2005;  Vimmerby - Vuxen; ;;Cme;;2005-04-19;;21607890884;10
+75;Dalai Lama, Fri i exilen 1991;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471660884;39
+76;Dalai Lama, Vishetens öga 1990;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471650884;51
+77;Dan, Joseph, Kabbala 2007;  Vimmerby - Vuxen; ;;Cmd;;2008-03-04;;21740690884;7
+78;Daodejing 1991;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20470770884;56
+79;Daodejing 2008;  Vimmerby - Vuxen; ;;Cm;;2009-02-16;;21781490884;0
+80;David-Néel, Alexandra, Bland mystiker och magiker i Tibet 1988;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471830884;23
+81;Dawkins, Richard, Illusionen om Gud 2007;  Vimmerby - Vuxen; ;;C;;2008-05-23;2015-03-25;21750660884;28
+82;De Botton, Alain, Religion för ateister 2012;  Vimmerby - Vuxen; ;;C;;2013-03-28;2015-03-23;80047024069;26
+83;De kristna 1980;  Vimmerby - Vuxen; ;;Cj;;1998-04-06;;20471790884;20
+84;De Lange, Nicholas, Judendomen 1988;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471820884;49
+85;Den muslimske Jesus 2002;  Vimmerby - Vuxen; ;;Cmd;;2003-06-04;;21323600884;6
+86;Den svenska psalmboken 1986;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20242230884;22
+87;Den svenska psalmboken med tillägg 2005;  Vimmerby - Vuxen; ;;Ci;;2011-09-28;;47378050034;1
+88;Det mångreligiösa Sverige 2005;  Vimmerby - Vuxen; ;;Cm;;2005-05-04;;21609350884;20
+89;Diehl, Anita, Vad är religion? 1991;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471810884;82
+90;Donin, Chaim Halevy, Att vara jude 1985;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471800884;53
+91;Drury, Nevill, Shamanism 1996;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20255730884;58
+92;Duffy, Eamon, Helgon och syndare 2002;  Vimmerby - Vuxen; ;;Ck;;2002-08-07;;20978960884;3
+93;Efraim Syriern, Hymnerna om paradiset 1985;  Vimmerby - Vuxen; ;;Cd;;2010-05-03;;80041463858;2
+94;Eggehorn, Ylva, Kryddad olja 2005;  Vimmerby - Vuxen; ;;Cc;;2006-03-02;;21632890884;2
+95;Eggehorn, Ylva, Leva av källan 1999;  Vimmerby - Vuxen; ;;Ci;;1999-11-25;;21273170884;17
+96;Einhorn, Lena, Vad hände på vägen till Damaskus? 2006;  Vimmerby - Vuxen; ;;Cc;;2006-09-14;;21642770884;19
+97;Einhorn, Stefan, En dold Gud 1999;  Vimmerby - Vuxen; ;;C;;2002-01-31;2015-04-04;20868940884;47
+98;Eklund, Stig, Har kyrkan en framtid? 2003;  Vimmerby - Vuxen; ;;Cg;;2003-05-27;;21322320884;7
+99;Eldebo, Runar, Kristen i landet lagom 1999;  Vimmerby - Vuxen; ;;Ce;;1999-08-06;;21266670884;10
+100;Eliade, Mircea, Myten om den eviga återkomsten 2002;  Vimmerby - Vuxen; ;;Cm;;2003-06-19;;21325840884;9
+101;En god död 2000;  Vimmerby - Vuxen; ;;Cf;;2000-04-05;;20831840884;17
+102;Enoksen, Lars Magnar, Djur och natur i fornnordisk mytologi 2006;  Vimmerby - Vuxen; ;;Cmi;;2006-05-15;;21637250884;5
+103;Enoksen, Lars Magnar, Fornnordisk mytologi enligt Eddans lärdomsdikter 2000;  Vimmerby - Vuxen; ;;Cmi;;2000-08-25;;21032460884;38
+104;Ericsson, Marie, Kom och se 2011;  Vimmerby - Vuxen; ;;Cme;;2012-08-28;;80041467797;0
+105;Eriksson, Jörgen I., Var tids noaidi 2009;  Vimmerby - Vuxen; ;;Cm;;2011-05-18;;80041465872;1
+106;Eriksson, Thérèse, Möt mig som jag är 2014;  Vimmerby - Vuxen; ;;Cg;;2014-09-03;;52435520025;1
+107;Erman, Bengt, Begravningsskick 2000;  Vimmerby - Vuxen; ;;Cm;;2000-05-06;;21024860884;9
+108;Esposito, John L., Islam 2011;  Vimmerby - Vuxen; ;;Cmd;;2012-02-21;;51134430077;10
+109;Essén, Charlotte, Sektbarn 2008;  Vimmerby - Vuxen; ;;Cks;;2008-06-04;;80037103606;21
+110;Farah, Malaka, Okunnighet är människans fiende 2003;  Vimmerby - Vuxen; ;;Cmd;;2003-10-01;;89014746809;4
+111;Farah-zén, Koranen är vår väg 1984;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471350884;38
+112;Fazlhashemi, Seyyed Mohammad, Vems islam 2008;  Vimmerby - Vuxen; ;;Cmd;;2010-11-23;;21781440884;1
+113;Fjärstedt, Biörn, Evangeliet på andra marker än i väst 2009;  Vimmerby - Vuxen; ;;Ca;;2010-01-25;;21405610884;0
+114;Fornberg, Tord, Det trovärdiga vittnet 2004;  Vimmerby - Vuxen; ;;Cc;;2005-05-09;;21609620884;4
+115;Fotheringham, Allan, Att hitta hem 2006;  Vimmerby - Vuxen; ;;Cme;;2007-11-21;;89019894347;4
+116;Fransson, Tomas, Inte bara kyrkans 2012;  Vimmerby - Vuxen; ;;Cc;;2013-07-01;2015-03-20;80047024496;1
+117;Freeman, Eileen Elias, Änglavakt & skyddsänglar 1996;  Vimmerby - Vuxen; ;;Ce;;1998-04-06;;20471290884;74
+118;Frisk, Liselotte, De nya religiösa rörelserna - vart tog de vägen? 2007;  Vimmerby - Vuxen; ;;Cn;;2008-02-15;2015-03-24;80036170895;6
+119;Furuhagen, Hans, Bibeln och arkeologerna 2010;  Vimmerby - Vuxen; ;;Cc;;2010-12-08;;80041447611;3
+120;Gardell, Jonas, Om Gud 2003;  Vimmerby - Vuxen; ;;Ce;;2003-04-14;;21316740884;48
+121;Gardell, Jonas, Om Jesus 2009;  Vimmerby - Vuxen; ;;Cc;;2009-03-30;2015-03-20;80037123629;32
+122;Gardell, Mattias, Bin Ladin i våra hjärtan 2005;  Vimmerby - Vuxen; ;;Cmd;;2005-11-02;;21620100884;6
+123;Gardner, Laurence, Gåtan Maria Magdalena 2006;  Vimmerby - Vuxen; ;;Cc;;2007-04-04;2015-03-18;21713460884;23
+124;Geels, Antoon, Den religiösa människan 2006;  Vimmerby - Vuxen; ;;C;;2010-12-08;;80041447809;10
+125;Geels, Antoon, Kristen mystik. D. 1 2000;  Vimmerby - Vuxen; ;;Ce;;2001-10-03;;20858280884;6
+126;Gibran, Kahlil, Jesus människoson 1995;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470410884;28
+127;Gibran, Kahlil, Profeten 1977;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470980884;50
+128;Goldman, Anita, Guds älskarinnor 2005;  Vimmerby - Vuxen; ;;Cm;;2006-01-20;;21629060884;7
+129;Goldman, Anita, Våra bibliska mödrar 1988;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470400884;27
+130;Goleman, Daniel, Samtal med Dalai Lama 2003;  Vimmerby - Vuxen; ;;Cme;;2003-11-13;;21337190884;12
+131;Granqvist, Hans, Meditation och mystik i Östasien 1995;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471520884;30
+132;Grayling, A. C., Against all gods 2007;  Vimmerby - Vuxen; ;;C;;2009-05-12;;80039724339;3
+133;Grimal, Pierre, Den grekiska mytologin 1993;  Vimmerby - Vuxen; ;;Cmg;;1998-04-06;;20471510884;13
+134;Grossman, David, Lejonhonung 2006;  Vimmerby - Vuxen; ;;Cc;;2007-08-24;;21719460884;1
+135;Grün, Anselm, Himlen mitt i öknen 1999;  Vimmerby - Vuxen; ;;Cj;;2002-11-06;2015-03-18;20992520884;17
+136;Grønbech, Vilhelm, Nordiska myter och sagor 1965;  Vimmerby - Vuxen; ;;Cmi;;1998-04-06;;20471500884;69
+137;Gudmundson, Ulla, Påven Benedictus, kyrkan och världen 2010;  Vimmerby - Vuxen; ;;Ck;;2010-12-08;;80041465101;0
+138;Gumbricht, Norman, Vem var egentligen Akilles? 2009;  Vimmerby - Vuxen; ;;Cmg(x);;2009-10-22;;49799250080;1
+139;Gustafsson Chen, Anna, Taoistiska berättelser 2001;  Vimmerby - Vuxen; ;;Cm;;2001-09-26;;20857840884;8
+140;Gustafsson Figueroa, Kerstin, För Guds skull 2007;  Vimmerby - Vuxen; ;;Cmd;;2008-09-17;;21762340884;1
+141;Gustafsson, Lars H., Barnet som slumrar 1995;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470990884;21
+142;Gällmo, Gunnar, Buddhas liv 1999;  Vimmerby - Vuxen; ;;Cme;;2000-02-07;;21280210884;14
+143;Gällmo, Gunnar, Några fakta om forn sed 1998;  Vimmerby - Vuxen; ;;Cmi;;1999-01-19;;21236990884;13
+144;Göth, Lennart, Religion 1 för gymnasiet 2012;  Vimmerby - Vuxen; ;;Cm;;2014-01-23;;51286720025;3
+145;Hadžibajric, Fejzullah, Ilmihal 2000;  Vimmerby - Vuxen; ;;Cmd;;2001-02-21;;21047510884;17
+146;Hagerman, Maja, I miraklers tid 2003;  Vimmerby - Vuxen; ;;Cj-c;;2003-12-09;;21340360884;10
+147;Hallingberg, Gunnar, Läsarna 2010;  Vimmerby - Vuxen; ;;Cj-c;;2011-11-10;;80041466626;0
+148;Hammar, Karl Gustav, Tecken och verklighet ; Samtal om Gud ; Ecce Homo 2006;  Vimmerby - Vuxen; ;;Ce;;2006-09-05;;89018407032;14
+149;Hammer, Olav, Profeter mot strömmen 1999;  Vimmerby - Vuxen; ;;Cn;;2008-08-26;;21269720884;19
+150;Harner, Michael, Shamanens väg 1983;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471490884;82
+151;Harrison, Dick, Förrädaren, skökan och självmördaren 2005;  Vimmerby - Vuxen; ;;Cc;;2005-03-30;2015-03-18;21606790884;40
+152;Hasan ibn Talal, Kristendomen i arabvärlden 2006;  Vimmerby - Vuxen; ;;Cj;;2007-06-12;2015-03-18;21717390884;4
+153;Hedendomen i historiens spegel 2005;  Vimmerby - Vuxen; ;;Cmi;;2006-09-26;2015-04-06;21642970884;35
+154;Hedin, Christer, Abrahams barn 1999;  Vimmerby - Vuxen; ;;Cm;;2000-10-16;;21035650884;37
+155;Hedin, Christer, Bibeln och Koranen 2002;  Vimmerby - Vuxen; ;;Cc;;2002-04-22;;20878370884;15
+156;Hedin, Christer, Islam i samhället 2001;  Vimmerby - Vuxen; ;;Cmd;;2001-08-16;;21062960884;24
+157;Hedin, Christer, Islam i vardagen och världen 1994;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471470884;55
+158;Hedin, Christer, Islam och västerlandet 2006;  Vimmerby - Vuxen; ;;Cmd;;2006-12-14;;21703080884;5
+159;Hedin, Christer, Islams historia 2010;  Vimmerby - Vuxen; ;;Cmd;;2011-02-14;;80041465334;3
+160;Hedin, Christer, Kristendom 2011;  Vimmerby - Vuxen; ;;Ca;;2011-10-25;2015-03-25;80041466507;10
+161;Hedin, Christer, Österns religioner 2013;  Vimmerby - Vuxen; ;;Cme;;2013-05-15;;51790980214;2
+162;Hellman, Eva, Hinduiska gudinnor och kvinnor 1998;  Vimmerby - Vuxen; ;;Cme;;1998-12-04;;21233920884;25
+163;Hellström, Jan Arvid, Vägar till Sveriges kristnande 1996;  Vimmerby - Vuxen; ;;Cj-c;;1998-04-06;;20471260884;51
+164;Henrikson, Alf, Biblisk historia. 1, Gamla testamentet 1990;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470370884;15
+165;Henrikson, Alf, Biblisk historia. 2, Nya testamentet 1990;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470380884;14
+166;Hill, Jonathan, Den kristna kyrkans historia 2008;  Vimmerby - Vuxen; ;;Cj;;2009-07-16;;21793500884;11
+167;Hill, Jonathan, Kristendomens spår 2006;  Vimmerby - Vuxen; ;;Ca;;2007-09-12;;21722120884;2
+168;Hillerdal, Gunnar, Plymouthbröderna 2007;  Vimmerby - Vuxen; ;;Cks;;2007-09-26;;80034309976;6
+169;Hinduismens heliga skrifter 2010;  Vimmerby - Vuxen; ;;Cme;;2010-12-21;;80041465158;6
+170;Hjärpe, Jan, Förändringens vind 2009;  Vimmerby - Vuxen; ;;Cmd;;2009-07-17;;21793610884;1
+171;Hjärpe, Jan, Islamismer 2010;  Vimmerby - Vuxen; ;;Cmd;;2010-09-22;;80041420673;2
+172;Hjärpe, Jan, Islams värld 1990;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20471450884;59
+173;Hjärpe, Jan, Shari'a 2014;  Vimmerby - Vuxen; ;;Cmd;;2014-07-08;;52725080032;0
+174;Hjärpe, Jan, Tusen och en natt & den elfte september 2003;  Vimmerby - Vuxen; ;;C;;2003-10-02;;21333570884;8
+175;Hoff, Benjamin, Tao enligt Puh 1984;  Vimmerby - Vuxen; ;;Cm;;1998-08-20;;21225440884;34
+176;Holmqvist, Kalle, Gråkoltarna 2013;  Vimmerby - Vuxen; ;;Cj-c;;2014-06-26;;80047026179;0
+177;Holtsmark, Anne, Fornnordisk mytologi 1992;  Vimmerby - Vuxen; ;;Cmi;;2001-11-17;2015-03-26;20862310884;37
+178;Hughes, Bettany, Sköna Helena 2006;  Vimmerby - Vuxen; ;;Cmg;;2007-06-12;;21717370884;4
+179;Hughes, Gerald, Bibelns värld 1981;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20470350884;12
+180;Hägg, Göran, Gud i Sverige 2010;  Vimmerby - Vuxen; ;;Cj-c;;2010-10-04;;80041431272;9
+181;Hägg, Göran, Påvarna 2006;  Vimmerby - Vuxen; ;;Ck;;2006-05-02;;21636670884;13
+182;Illustrerat bibellexikon. Bd 1, A-D 1988;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-17;;21705530884;0
+183;Illustrerat bibellexikon. Bd 2, E-F 1988;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-24;;21706850884;0
+184;Illustrerat bibellexikon. Bd 3, G-I 1988;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-24;;21706860884;0
+185;Illustrerat bibellexikon. Bd 4, J-L 1988;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-24;;21706870884;0
+186;Illustrerat bibellexikon. Bd 5, M-Q 1990;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-25;;21707160884;0
+187;Illustrerat bibellexikon. Bd 6, R-S 1990;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-25;;21707170884;0
+188;Illustrerat bibellexikon. Bd 7, T-Ö 1991;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-25;;21707180884;0
+189;Illustrerat bibellexikon. Bd 8, Bibelöversikt 1991;  Vimmerby - Vuxen; ;;Cc(x);;2007-01-25;;21707190884;1
+190;'Iraqi, Fakhr al-Din Ibrahim, Gnistornas bok 2006;  Vimmerby - Vuxen; ;;Cmd;;2006-09-18;;21642930884;4
+191;Islam 1989;  Vimmerby - Vuxen; ;;Cmd;;1998-08-26;;21225920884;47
+192;Islamologi 2012;  Vimmerby - Vuxen; ;;Cmd;;2013-01-24;;80047023799;1
+193;Jacobsen, Knut A., Hinduismen 2004;  Vimmerby - Vuxen; ;;Cme;;2004-10-14;;21595780884;23
+194;Jacobus de Voragine, Gyllene legender 2007;  Vimmerby - Vuxen; ;;Cj;;2008-05-21;;21749450884;0
+195;Jag litar på din kärlek 2007;  Vimmerby - Vuxen; ;;Ci;;2007-05-16;;80034316846;0
+196;James, Edwin Oliver, Gravarna berättar 1986;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471620884;13
+197;Jenkins, Elizabeth B., Inkans återkomst 1997;  Vimmerby - Vuxen; ;;Cm;;1998-04-30;;21211660884;28
+198;Johannes Damaskenos, Tre försvarstal mot dem som förkastar de heliga bilderna 2008;  Vimmerby - Vuxen; ;;Cd;;2009-01-30;;21776640884;0
+199;Johannesson, Karin, Till alla som tycker att livet är en öken 2001;  Vimmerby - Vuxen; ;;Ci;;2003-08-14;;21328170884;4
+200;Jones, James, Om Gud är god- 1997;  Vimmerby - Vuxen; ;;Ce;;1998-06-05;;89004934931;23
+201;Kallifatides, Theodor, Afrodites tårar 1996;  Vimmerby - Vuxen; ;;Cmg;;1998-04-06;;20471590884;22
+202;Kanitkar, Vitthal Pralhad, Hinduism 1989;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471560884;28
+203;Karlsson, Ingmar, Tro, terror och tolerans 2004;  Vimmerby - Vuxen; ;;Cm;;2004-04-01;;21350410884;8
+204;Kepel, Gilles, Kampen om islam 2006;  Vimmerby - Vuxen; ;;Cmd;;2006-11-28;;21701760884;2
+205;Kerényi, Karl, Grekernas och romarnas religion 1962;  Vimmerby - Vuxen; ;;Cmg;;1998-04-06;;20472060884;40
+206;Kimball, Charles, När religionen blir ond 2004;  Vimmerby - Vuxen; ;;Cm;;2006-09-06;;21642180884;9
+207;Kittler, Glenn D., Edgar Cayce och Dödahavsrullarna 1991;  Vimmerby - Vuxen; ;;Cmd;;1998-04-06;;20470820884;52
+208;Koranen 2009;  Vimmerby - Vuxen; ;;Cmd;;2014-12-15;2015-04-01;49757900123;2
+209;Koranen. Urval 1994;  Vimmerby - Vuxen; ;;Cmd;;2011-10-08;;20184600884;26
+210;Kornhall, Per, Livets ord 2010;  Vimmerby - Vuxen; ;;Cks;;2010-12-30;;80041465182;1
+211;Kornhall, Per, Skapelsekonspirationen 2008;  Vimmerby - Vuxen; ;;Ce;;2009-01-30;2015-04-01;21776650884;36
+212;Koskinen, Lennart, Uppenbarelseboken 1999;  Vimmerby - Vuxen; ;;Cc;;2002-03-22;;20874190884;10
+213;Krakauer, Jon, Mord i Guds namn 2004;  Vimmerby - Vuxen; ;;Cks;;2005-08-25;;21614440884;14
+214;Kritiska tänkanden i religionsvetenskapen 2009;  Vimmerby - Vuxen; ;;C;;2010-01-19;;21406060884;3
+215;Kärlek, nål och tråd 2009;  Vimmerby - Vuxen; ;;Cg;;2009-10-20;;80039707940;15
+216;Laestadius, Lars Levi, Samlade predikningar. 1, Predikan 1-71 : första söndagen i advent - fastlagssöndagen 2006;  Vimmerby - Vuxen; ;;Ci;;2006-11-24;;21701170884;2
+217;Laven, Mary, Nunnorna i Venedig 2004;  Vimmerby - Vuxen; ;;Ck;;2004-06-03;;21355730884;28
+218;Lewis, Clive Staples, Den djupa glädjen 1998;  Vimmerby - Vuxen; ;;Ci;;1999-01-14;;21236810884;25
+219;Lewis, Clive Staples, Kärlekens fyra ansikten 2000;  Vimmerby - Vuxen; ;;Cf;;2000-11-16;;21038280884;41
+220;Lewis, Clive Staples, Mirakel 1998;  Vimmerby - Vuxen; ;;Ce;;1998-08-24;;21225840884;44
+221;Lewis, Clive Staples, Världens sista kväll och andra texter 2013;  Vimmerby - Vuxen; ;;Ci;;2014-02-27;;52151130013;1
+222;Liao, Yiwu, Gud är röd 2013;  Vimmerby - Vuxen; ;;Ck;;2014-02-07;;80047025563;0
+223;Lindskog, Claes, Grekiska myter och sagor 1988;  Vimmerby - Vuxen; ;;Cmg;;1998-04-06;;20472050884;48
+224;Lings, Martin, Muhammed 2008;  Vimmerby - Vuxen; ;;Cmd;;2011-11-14;;21775650884;5
+225;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945240884;0
+226;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945250884;0
+227;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945260884;0
+228;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945270884;0
+229;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945220884;0
+230;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945200884;0
+231;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945190884;0
+232;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945180884;0
+233;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945230884;0
+234;Linköpings stiftsblad. 43(1977) 1977;  Vimmerby - Vuxen; ;;Cj-c(p);;1998-04-06;;20945210884;0
+235;Lundén, Tryggve, Sveriges missionärer, helgon och kyrkogrundare 1983;  Vimmerby - Vuxen; ;;Cj-c;;2002-01-24;;20868130884;5
+236;Lundin, Johan A., Predikande kvinnor och gråtande män 2013;  Vimmerby - Vuxen; ;;Cks;;2014-03-31;;80047025827;3
+237;Lundqvist, Åke, Vildåsnans törst 2006;  Vimmerby - Vuxen; ;;Cc;;2006-12-09;;21700480884;0
+238;Lönnebo, Martin, Frälsarkransen 1996;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470870884;33
+239;Lönnebo, Martin, Hjärtats nycklar 2010;  Vimmerby - Vuxen; ;;Ci;;2012-01-04;;50141010066;5
+240;Lönnebo, Martin, Livets djup 1972;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470880884;14
+241;Lönnebo, Martin, Van Goghs rum 2005;  Vimmerby - Vuxen; ;;Ci;;2005-11-16;;21622750884;21
+242;Lönnebo, Martin, Väven 1999;  Vimmerby - Vuxen; ;;Ci;;1999-09-29;;21269580884;15
+243;Magnusson, Jörgen, Judasevangeliet 2008;  Vimmerby - Vuxen; ;;Cc;;2009-12-17;2015-03-23;21401600884;31
+244;Manipulering pågår 1995;  Vimmerby - Vuxen; ;;Cn;;1998-04-06;;89001904621;69
+245;Marianne, Då gråter änglarna 1997;  Vimmerby - Vuxen; ;;Cks;;2003-02-11;;20999780884;29
+246;Marklund, Thorsten, Kvinnor i bibeln 1986;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20471210884;31
+247;Martinus, Livets bok. 1 / [översatt från danskan av Agne Windmark i samråd med Nils Kalén]d 1975;  Vimmerby - Vuxen; ;;Cn;;1998-04-06;;20445840884;29
+248;Martling, Carl Henrik, Synden straffar sig själv 2001;  Vimmerby - Vuxen; ;;Cb(x);;2001-08-17;;21129100884;1
+249;Melin, Margareta, Den inre källan 1986;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470920884;34
+250;Melin, Margareta, Vilja och frihet 1992;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20470930884;34
+251;Modéus, Martin, Gudstjänstens kärnvärden 2013;  Vimmerby - Vuxen; ;;Ch;;2014-10-15;;52559360008;0
+252;Moltke-Hoff, Anne-Marie, Enkelt och flärdfullt 1998;  Vimmerby - Vuxen; ;;Cks;;1998-10-20;;89007018734;19
+253;Muchembled, Robert, Djävulens historia 2002;  Vimmerby - Vuxen; ;;Ce;;2003-05-07;;21319080884;13
+254;Musset, Jacques, Boken om Bibeln. Gamla testamentet 1996;  Vimmerby - Vuxen; ;;Cc;;1998-04-06;;20471180884;22
+255;Mystik och andlighet 2013;  Vimmerby - Vuxen; ;;Cm;;2013-11-11;2015-04-01;80047025328;20
+256;Naipaul, Vidiadhar Surajprasad, Bortom tron 1999;  Vimmerby - Vuxen; ;;Cmd;;2000-02-28;;21280700884;14
+257;Nattvardens teologi 1996;  Vimmerby - Vuxen; ;;Ce;;1998-04-06;;20470190884;14
+258;Nettelhorst, Robin P., Apostlar och profeter 2008;  Vimmerby - Vuxen; ;;Cc;;2009-01-08;;80037117480;2
+259;Nhât Hanh, Mandelträdet i din trädgård 1996;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20260910884;25
+260;Nilsson, Nils-Henrik, Värd i kyrkan 2009;  Vimmerby - Vuxen; ;;Ch;;2010-09-09;;80041434952;3
+261;Nobel, Agnes, Filosofens knapp 1999;  Vimmerby - Vuxen; ;;Cn;;2000-04-05;;20831760884;8
+262;Notboken 2001;  Vimmerby - Vuxen; ;;Cc;;2001-05-03;;21054850884;1
+263;Nya religioner 2004;  Vimmerby - Vuxen; ;;Cn;;2005-03-09;;21605490884;17
+264;Näsström, Britt-Mari, Nordiska gudinnor 2009;  Vimmerby - Vuxen; ;;Cmi;;2010-03-16;;80041463637;4
+265;Ohlmarks, Åke, Gudatro i nordisk forntid 1970;  Vimmerby - Vuxen; ;;Cmi;;1998-04-06;;20470750884;68
+266;Okkenhaug, Berit, Själavård 2004;  Vimmerby - Vuxen; ;;Cg;;2004-07-08;2015-03-19;21358820884;9
+267;Olsen, Harald, Keltisk andlighet 2000;  Vimmerby - Vuxen; ;;Cj;;2001-03-15;;21049790884;11
+268;Olsson, Lars-Erik, Vita jungfrun - och andra gestalter från 1800-talets kyrkohistoria 2009;  Vimmerby - Vuxen; ;;Cj-c ;;2009-06-30;;80039726495;0
+269;Onfray, Michel, Atheist Manifesto 2008;  Vimmerby - Vuxen; ;;C;;2009-02-13;;80037101778;31
+270;Onsell, Birgitta, Efter tusen år av tystnad- 1994;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471430884;34
+271;Origenes, Om bönen 2009;  Vimmerby - Vuxen; ;;Cd;;2010-01-26;;21405470884;1
+272;Ortberg, John, Gud är närmare än du tror 2006;  Vimmerby - Vuxen; ;;Ci;;2006-05-15;;21637270884;11
+273;Ottosson, Stellan, Jesus, Paulus och kärleken 2010;  Vimmerby - Vuxen; ;;Cc;;2011-07-26;;80042854618;0
+274;Ouis, Pernilla, Muslim i Sverige 2003;  Vimmerby - Vuxen; ;;Cmd;;2004-07-06;;21355320884;11
+275;Ouspensky, Leonid, Ikonens teologi 2000;  Vimmerby - Vuxen; ;;Ck;;2001-09-24;;20856600884;6
+276;O'Yeah, Zac, Guru! 2004;  Vimmerby - Vuxen; ;;Cme;;2004-04-30;;21352900884;11
+277;Persson, Larsåke W., Sinnesro 2011;  Vimmerby - Vuxen; ;;Ci;;2011-07-18;;50585450009;13
+278;Pettersson, Olof, Afrikansk religiositet 1982;  Vimmerby - Vuxen; ;;Cm;;1998-04-06;;20471420884;40
+279;Piltz, Anders, Adam, var är du? 2009;  Vimmerby - Vuxen; ;;Ce;;2009-09-16;;80039733979;1
+280;Piltz, Anders, Morgonens nåd och nattens trofasthet 2002;  Vimmerby - Vuxen; ;;Ci;;2003-09-03;;21330980884;6
+281;Plats och praxis 2002;  Vimmerby - Vuxen; ;;Cmi;;2003-01-20;2015-03-16;20997390884;40
+282;Pol, Jan, Om fornnordisk mytologi 1993;  Vimmerby - Vuxen; ;;Cmi;;1998-04-06;;20481790884;80
+283;Poromaa, Sante, Bortom alla begrepp 1997;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;21207240884;43
+284;Psalmer i 2000-talet 2006;  Vimmerby - Vuxen; ;;Ci;;2007-01-18;;21705680884;7
+285;På vidsträckta fält 2005;  Vimmerby - Vuxen; ;;Cg;;2006-03-01;;21632710884;16
+286;Radler, Aleksander, Kristendomens idéhistoria 1988;  Vimmerby - Vuxen; ;;Ce;;1998-04-06;;20470180884;29
+287;Ragnar, Per, När ska jag ha tid att leva? 1996;  Vimmerby - Vuxen; ;;Ci;;1998-04-06;;20251660884;16
+288;Ramadan, Tariq, Att vara europeisk muslim 2004;  Vimmerby - Vuxen; ;;Cmd;;2004-11-11;;21597940884;2
+289;Rasmussen, Tarald, Kristendomen 2007;  Vimmerby - Vuxen; ;;Cj;;2008-05-22;2015-03-25;21750180884;17
+290;Raudvere, Catharina, Kunskap och insikt i norrön tradition 2003;  Vimmerby - Vuxen; ;;Cmi;;2003-11-03;2015-03-16;21336300884;42
+292;Reberg, Arne, Mitt möte med de gåtfulla antroposoferna 1994;  Vimmerby - Vuxen; ;;Cn;;1998-04-06;;20470170884;34
+293;Religion i Latinamerika 2012;  Vimmerby - Vuxen; ;;Cm;;2012-05-09;;51173460081;1
+294;Religionsfilosofiska texter 1999;  Vimmerby - Vuxen; ;;C;Försvunnen;2000-04-19;;21024970884;11
+295;Religiösa rörelser förr och nu 1988;  Vimmerby - Vuxen; ;;Cj-c;;1998-04-06;;20471930884;15
+296;Reventlow, Christian, Vad Buddha lärde 1990;  Vimmerby - Vuxen; ;;Cme;;1998-04-06;;20471400884;85
+297;Rimås, Otto, Kallelse och- befriat liv 1998;  Vimmerby - Vuxen; ;;Ce;;1998-11-25;;21233130884;8
+298;Ring, Börge, Religion och livet 2007;  Vimmerby - Vuxen; ;;Cm;;2009-02-02;;80037119638;6
+299;Roald, Anne Sofie, Islam 2005;  Vimmerby - Vuxen; ;;Cmd;;2006-01-19;;21628900884;17
+300;Roger, Gud kan bara älska 2005;  Vimmerby - Vuxen; ;;Ci;;2006-02-15;;21632090884;6
