@@ -1,11 +1,15 @@
-
 Shelf list
 CSV file from BOOK-IT
+
+========
 
 The CSV file from BOOK-IT has these fields and uses semi-colon as field separator:
 
 Nr;Huvuduppslag;Avdelning;Placering;Cirk. kat;Hylla;Status;Lok.-datum;Förf. datum;Etikettnr.;Lån;
 
+Huvud uppslag is the second field, Hylla the sixth one
+
+========
 
 Possibly fields in search and sequence fiels in Smartstrock are these:
 
@@ -23,6 +27,8 @@ id,title,location,search
 
 
 
+========
+
 Compare the CSV file with the shelf list
 
 Check if Hylla is in shelf list
@@ -33,6 +39,19 @@ Check if Hylla is in shelf list
 		check again
 
 Sort tmp file by shelf and Huvuduppslag
+
+shelf mark, id ... isn't shelf list arrays already??
+every row is an Array
+
+The Array needs to be something like this
+["C","Ci","Cj","Ck","Cm"]
+
+shelfs["C"] = [["Wikander, Ola, Gud är ett verb","1234"],["Goldman,Anita, Våra bibliska mödrar","12345"]]
+
+sort
+sort_by! {|x,y|x}
+
+
 
 Create sequence file
 id,title
