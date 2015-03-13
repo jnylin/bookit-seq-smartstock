@@ -60,7 +60,7 @@ end
 f_seq.puts "id"
 shelves.each do |key, value|
 	if value.length > 0
-		arr_shelf = value.sort
+		arr_shelf = value.sort! {|x,y| x[0].downcase.gsub('w','v') <=> y[0].downcase.gsub('w','v') }
 		arr_shelf.each do |book|
 			if /^\d/.match(book[0]) # Sort numbers after letters
 				arr_shelf.push(arr_shelf.shift)
