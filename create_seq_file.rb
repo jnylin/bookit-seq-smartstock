@@ -49,21 +49,45 @@ def normalize(entry)
 	str = ""
 
 	entry.each_codepoint do |c|
-		if c > 255
+		case c
+
+		when 256..(1.0/0.0) # 
 			unicode_char = UnicodeUtils.compatibility_decomposition([c].pack('U').to_s).split('').select do |unicode_c|
 				UnicodeUtils.general_category(unicode_c) =~ /Letter|Separator|Punctation|Number/
 			end.join
 			str << unicode_char
-		elsif ( c == 196 || c == 228 ) # ä ligger före å i tackentabellen
+		when 48..57
+			str << c+198 # Sortera siffror efter bokstäver, vi lånar slutet av teckentabellen
+		when 39 # 'Iraqi..
+		when 87, 119 # Sortera w som w
+			str << c-1
+		when 196, 228 # ä ligger före å i teckentabellen
 			str << c+2
-		elsif c == 39 # 'Iraqi
 		else
 			str << c
 		end
+		
 	end
 
 	return str
 end
+
+def sort_shelf(arr)
+	#arr_shelf = value.sort_by! { |book| book[0].split(/(\d+)/).map { |v| v =~ /\d+/ ? v.to_i : v } }
+	#arr_shelf.each do |book|
+		#if /^\d+\b/.match(book[0]) # Sort numbers after letters
+			#arr_shelf.push(arr_shelf.shift)
+		#else
+			#break
+		#end
+	#end
+	#
+	# TODO: natural sorting (and remove numbers from normalize function)
+	
+	return arr.sort
+end
+
+#### Main
 
 $f_shelf_list = File.open(shelf_list)
 f_copies = File.open(copies,"r:utf-8") # BOOK-IT saves the CSV in ISO-8859-1 but we want to be able to sort all languages
@@ -95,14 +119,8 @@ f_seq.puts "id"
 shelves.each do |key, value|
 	if value.length > 0
 		# The actual sorting
-		arr_shelf = value.sort! { |x,y| x[0].downcase.gsub('w','v') <=> y[0].downcase.gsub('w','v') }
-		arr_shelf.each do |book|
-			if /^\d/.match(book[0]) # Sort numbers after letters
-				arr_shelf.push(arr_shelf.shift)
-			else
-				break
-			end
-		end
+		arr_shelf = sort_shelf(value)
+
 		# Write label to sequence file and print main entry to STDOUT
 		puts "\n#{key}\n"
 		arr_shelf.each do |book|
