@@ -16,6 +16,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 require 'csv'
+require 'unicode_utils/compatibility_decomposition'
+require 'unicode_utils/general_category'
 
 shelf_list, copies = ARGV
 
@@ -43,8 +45,28 @@ def get_shelf(shelfMark)
 	end
 end
 
+def normalize(entry)
+	str = ""
+
+	entry.each_codepoint do |c|
+		if c > 255
+			unicode_char = UnicodeUtils.compatibility_decomposition([c].pack('U').to_s).split('').select do |unicode_c|
+				UnicodeUtils.general_category(unicode_c) =~ /Letter|Separator|Punctation|Number/
+			end.join
+			str << unicode_char
+		elsif ( c == 196 || c == 228 ) # ä ligger före å i tackentabellen
+			str << c+2
+		elsif c == 39 # 'Iraqi
+		else
+			str << c
+		end
+	end
+
+	return str
+end
+
 $f_shelf_list = File.open(shelf_list)
-f_copies = File.open(copies,"r:utf-8")
+f_copies = File.open(copies,"r:utf-8") # BOOK-IT saves the CSV in ISO-8859-1 but we want to be able to sort all languages
 f_seq = File.open("seq.txt","w")
 
 copies = CSV.new(f_copies,{:headers=>:first_row,:col_sep=>";"})
@@ -59,12 +81,13 @@ $f_shelf_list.each_line do |line|
 end
 
 # Place item on correct shelf
-# TODO: Check for quotes and ; in the main entry
 copies.each do |item|
-	main_entry = item.field(1)[/\w.*/] # 'Irāqī, Fakhr al-Din Ibrāhīm
+	main_entry = item.field(1)
+	main_entry_normalized = normalize(main_entry)
 	shelf = get_shelf(item.field(5)) 
 	label = item.field(9)
-	shelves[shelf].push(["#{main_entry}","#{label}"])
+
+	shelves[shelf].push(["#{main_entry_normalized}","#{label}","#{main_entry}"])
 end
 
 # Sort the sequence and write sequence file
@@ -72,7 +95,7 @@ f_seq.puts "id"
 shelves.each do |key, value|
 	if value.length > 0
 		# The actual sorting
-		arr_shelf = value.sort! {|x,y| x[0].downcase.gsub('w','v') <=> y[0].downcase.gsub('w','v') }
+		arr_shelf = value.sort! { |x,y| x[0].downcase.gsub('w','v') <=> y[0].downcase.gsub('w','v') }
 		arr_shelf.each do |book|
 			if /^\d/.match(book[0]) # Sort numbers after letters
 				arr_shelf.push(arr_shelf.shift)
@@ -84,7 +107,7 @@ shelves.each do |key, value|
 		puts "\n#{key}\n"
 		arr_shelf.each do |book|
 			f_seq.puts book[1]
-			puts book[0]
+			puts book[2] # Print the original main entry
 		end
 	end
 end
