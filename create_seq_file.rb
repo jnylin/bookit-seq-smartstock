@@ -75,15 +75,9 @@ end
 def sort_shelf(arr)
 	# TODO: natural sorting (and remove numbers from normalize function)
 	# Komihåg att det är en flerdimensionell array
-	def sensible_sort
-		sort { |a, b| comparison(a, b) }
-	end
+	# Idé: lägg siffertitlar i en egen array, sortera den, lägg den sist!!
 
-	def comparison(a, b)
-		return a <=> b
-	end
-
-	arr_shelf = arr.sensible_sort
+	arr_shelf = arr.sort
 	
 	return arr_shelf
 end
