@@ -73,18 +73,19 @@ def normalize(entry)
 end
 
 def sort_shelf(arr)
-	#arr_shelf = value.sort_by! { |book| book[0].split(/(\d+)/).map { |v| v =~ /\d+/ ? v.to_i : v } }
-	#arr_shelf.each do |book|
-		#if /^\d+\b/.match(book[0]) # Sort numbers after letters
-			#arr_shelf.push(arr_shelf.shift)
-		#else
-			#break
-		#end
-	#end
-	#
 	# TODO: natural sorting (and remove numbers from normalize function)
+	# Komihåg att det är en flerdimensionell array
+	def sensible_sort
+		sort { |a, b| comparison(a, b) }
+	end
+
+	def comparison(a, b)
+		return a <=> b
+	end
+
+	arr_shelf = arr.sensible_sort
 	
-	return arr.sort
+	return arr_shelf
 end
 
 #### Main
