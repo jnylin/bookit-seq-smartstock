@@ -56,8 +56,6 @@ def normalize(entry)
 				UnicodeUtils.general_category(unicode_c) =~ /Letter|Separator|Punctation|Number/
 			end.join
 			str << unicode_char
-		when 48..57
-			str << c+198 # Sortera siffror efter bokstäver, vi lånar slutet av teckentabellen
 		when 39 # 'Iraqi..
 		when 87, 119 # Sortera w som w
 			str << c-1
@@ -73,11 +71,30 @@ def normalize(entry)
 end
 
 def sort_shelf(arr)
-	# TODO: natural sorting (and remove numbers from normalize function)
-	# Komihåg att det är en flerdimensionell array
-	# Idé: lägg siffertitlar i en egen array, sortera den, lägg den sist!!
+	def sort_nr!
+		sort! do |a, b| 
+			a[0].split[0].to_i <=> b[0].split[0].to_i
+		end
+	end
+
+	arr_nr = []
 
 	arr_shelf = arr.sort
+
+	arr_shelf.each do |book|
+		if book[0][/^\d.+/]
+			arr_nr.push(book)
+		else
+			break
+		end
+	end
+
+	arr_shelf = arr_shelf.slice(arr_nr.length,arr_shelf.length-arr_nr.length)
+	arr_nr.sort_nr!
+
+	arr_nr.each do |book|
+		arr_shelf.push(book)
+	end
 	
 	return arr_shelf
 end
