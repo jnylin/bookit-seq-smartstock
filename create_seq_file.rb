@@ -71,11 +71,6 @@ def normalize(entry)
 end
 
 def sort_shelf(arr)
-	def sort_nr!
-		sort! do |a, b| 
-			a[0].split[0].to_i <=> b[0].split[0].to_i
-		end
-	end
 
 	arr_nr = []
 
@@ -90,7 +85,9 @@ def sort_shelf(arr)
 	end
 
 	arr_shelf = arr_shelf.slice(arr_nr.length,arr_shelf.length-arr_nr.length)
-	arr_nr.sort_nr!
+	arr_nr.sort! do |a, b| 
+		a[0].split[0].to_i <=> b[0].split[0].to_i
+	end
 
 	arr_nr.each do |book|
 		arr_shelf.push(book)
