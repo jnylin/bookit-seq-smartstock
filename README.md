@@ -11,7 +11,7 @@ With Bundler in place you install the required gems: `bundle install`
 ## Instruction
 Search by Global change copies in BOOK-IT and save the list as CSV.
 
-The program needs a `shelf_list`. The file in the project is the shelf list for Vimmerby
+The program needs a `shelf_list` for each department and maybe also location in BOOK-IT. The files in the project is  shelf list for Vimmerby Library.
 
 ### Example search string
 This is an example of a search string in BOOOK-IT to generate the CSV: 
