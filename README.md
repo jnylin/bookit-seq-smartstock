@@ -15,4 +15,4 @@ The program needs a `shelf_list` for each department and maybe also location in 
 
 ### Example search string
 This is an example of a search string in BOOOK-IT to generate the CSV: 
-`vhb/tg a/ob 01/pl inte mag/pl (A*/hy ELLER B*/hy ELLER C*/hy ELLER E*/hy ELLER D*/hy) inte i/pu inte ref/pl inte små*/pl inte fol/pl inte astr*/pl inte mag*/pl inte infor*/pl inte forskar*/pl inte plac*/öv`
+`vhb/tg a/ob 01/pl inte mag/pl (C*/hy ELLER E*/hy ELLER D*/hy) inte i/pu inte små*/pl inte fol/pl inte astr*/pl inte mag*/pl inte infor*/pl inte forskar*/pl`
