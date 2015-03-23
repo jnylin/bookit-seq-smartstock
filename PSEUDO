@@ -62,3 +62,5 @@ sort_by! {|x,y|x}
 Create sequence file
 id,title
 ${Etikettnr},${Huvuduppslag}
+
+Remove Referens from shelfing
