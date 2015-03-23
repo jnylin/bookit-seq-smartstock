@@ -102,7 +102,7 @@ $f_shelf_list = File.open(shelf_list)
 f_copies = File.open(copies,"r:utf-8") # BOOK-IT saves the CSV in ISO-8859-1 but we want to be able to sort all languages
 f_seq = File.open("seq.txt","w")
 
-copies = CSV.new(f_copies,{:headers=>:first_row,:col_sep=>";"})
+copies = CSV.new(f_copies,{:headers=>:first_row,:col_sep=>"\t"})
 shelves = Hash.new
 
 # Initialize the shelves Hash
