@@ -11,7 +11,15 @@ With Bundler in place you install the required gems: `bundle install`
 ## Instruction
 Search by Global change copies in BOOK-IT and save the list as CSV.
 
-The program needs a `shelf_list` for each department and maybe also location in BOOK-IT. The files in the project is  shelf list for Vimmerby Library.
+The program needs a `shelf_list` for each department and maybe also location in BOOK-IT. The files in the project is  shelf lists for Vimmerby Library.
+
+### Settings
+
+By default Smartstock treats an item in sequence if it's discovered within the 10 next och 10 previous items. It's possible to change that in `confige.ini`
+
+`[config.search.sequence]
+window=10`
+
 
 ### Example search string
 This is an example of a search string in BOOOK-IT to generate the CSV: 
